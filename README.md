@@ -1,2 +1,2 @@
 # Calories-Burnt-Predictor
-This repository contains a machine learning model built using XGBoost Regression to predict the number of calories burnt based on various input features.
+This repository contains a machine learning model built using XGBoost Regression to predict the number of calories burnt based on various input features. Calorie burn prediction is a valuable task in fields like fitness tracking, health monitoring, and weight management. By utilizing the power of XGBoost, a powerful gradient boosting algorithm, this model aims to provide accurate calorie burn estimates for individuals.
